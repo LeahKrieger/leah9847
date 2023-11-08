@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leah9847
-- 👀 I’m interested in data analysis and am working as a technical writer
-- 🌱 I’m currently learning  python
+- 👀 I’m interested in data analysis 
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
