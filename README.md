@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leah9847
+- 👋 Hi, I’m Leah
 - 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
